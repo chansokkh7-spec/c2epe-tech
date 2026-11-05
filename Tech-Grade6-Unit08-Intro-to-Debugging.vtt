@@ -1,7 +1,7 @@
 WEBVTT
 
 1
-00:00:00.420 --> 00:00:03.833
+00:00:00.420 --> 00:00:03.810
 Unit eight. Intro to Debugging!
 
 2
@@ -45,15 +45,15 @@ Trace. Say it with me. Trace!
 Problem. Say it with me. Problem!
 
 12
-00:01:10.067 --> 00:01:14.751
+00:01:10.007 --> 00:01:10.757
 Logical error. Say it with me. Logical error!
 
 13
-00:01:18.246 --> 00:01:28.588
-Debugging means finding and fixing a bug... / error, in code. I test and trace my program to find a logical error and fix it.
+00:01:10.067 --> 00:01:25.449
+Debugging means finding and fixing a bug, or error, in code. I test and trace my program to find a logical error and fix it.
 
 14
-00:01:28.638 --> 00:01:32.330
+00:01:25.499 --> 00:01:32.067
 Now I understand. Thank you, Ms. Emily!
 
 15
@@ -77,7 +77,7 @@ Problem!
 Did you know? Engineers called problems 'bugs' long before computers, but a real moth found in a computer in 1947 made the story famous!
 
 20
-00:02:00.343 --> 00:02:02.796
+00:02:00.343 --> 00:02:02.840
 Wow! I did not know that!
 
 21
@@ -93,6 +93,6 @@ Great answer!
 Great job today! Keep learning, and see you next time. Goodbye!
 
 24
-00:02:23.262 --> 00:02:26.683
+00:02:23.262 --> 00:02:26.727
 Goodbye, everyone! See you next time!
 
